@@ -1,25 +1,25 @@
 // Data types
 
 // string
-let name = "Abdul Manan"
+let name: string = "Abdul Manan"
 console.log(name)
 
 // Number
-let age = 20;
+let age: number = 20;
 console.log(age)
 
 // boolean
 
-let instudy = true;
+let instudy:boolean = true;
 console.log(instudy)
 
 // null
-let Dreams = null;
+let Dreams:null = null;
 console.log(Dreams)
 
 // undifined
 
-let cast
+let cast: undefined 
 console.log(cast)
 
 // biginit
